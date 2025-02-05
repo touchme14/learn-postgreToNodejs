@@ -1,4 +1,6 @@
-const config = require('./config.js')
+//IN WORKING!!! NEED CONFIG>JS
+
+/*const config = require('./config.js')
 const { Sequelize } = require('sequelize')
 
 const { host, username, password, database, port, logging, dialect } =
@@ -28,4 +30,4 @@ const db = {
     port,
 }
 
-module.exports = { db, sequelize }
+module.exports = { db, sequelize }*/
